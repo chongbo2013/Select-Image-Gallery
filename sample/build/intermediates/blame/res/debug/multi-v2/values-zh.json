@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fluper-android/Downloads/Matisse-master/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/fluper-android/Downloads/Matisse-master/matisse/build/intermediates/bundles/debug/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,151,203,246,289,335,383,436,500,561,626,680,740,795",
+                        "endColumns": "45,49,51,42,42,45,47,52,63,60,64,53,59,54,50",
+                        "endOffsets": "96,146,198,241,284,330,378,431,495,556,621,675,735,790,841"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,151,203,246,289,335,383,501,565,626,691,745,805,922",
+                        "endColumns": "45,49,51,42,42,45,47,52,63,60,64,53,59,54,50",
+                        "endOffsets": "96,146,198,241,284,330,378,431,560,621,686,740,800,855,968"
+                    }
+                },
+                {
+                    "source": "/home/fluper-android/Downloads/Matisse-master/sample/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "18,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "695,633",
+                        "endColumns": "64,61",
+                        "endOffsets": "755,690"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "436,860",
+                        "endColumns": "64,61",
+                        "endOffsets": "496,917"
+                    }
+                }
+            ]
+        }
+    ]
+}
